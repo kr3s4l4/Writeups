@@ -1,0 +1,28 @@
+# Ignorar todo por defecto
+*
+
+# Pero permitir archivos .md en cualquier nivel
+!**/*.md
+
+# Permitir README.md en la raíz
+!README.md
+
+# Permitir el propio .gitignore
+!.gitignore
+
+# Opcional: excluir archivos de respaldo no deseados (aunque ya no se incluirán porque no son .md)
+*.bak
+*.txt.bak
+*.jpg
+*.png
+*.tar
+*.gz
+*.zip
+*.deb
+__pycache__/
+venv/
+pixelenv/
+corkami_collisions/
+hashclash/
+site-packages/
+dist-info/
