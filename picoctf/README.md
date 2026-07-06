@@ -19,16 +19,6 @@
 
 ---
 
-## 🏁 CTFs Incluidos
-
-| CTF | Año | Retos |
-|-----|-----|-------|
-| picoCTF | 2025 | 59 |
-
-*Próximamente más CTFs...*
-
----
-
 ## 📂 Estructura
 
 ### 🔴 Hard
