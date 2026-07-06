@@ -1,72 +1,117 @@
 # 🏆 Colección de Writeups de CTF
 
-Writeups organizados por dificultad. Cada reto tiene su propia página en Markdown.
+![GitHub repo size](https://img.shields.io/github/repo-size/kr3s4l4/writeups-ctf)
+![GitHub last commit](https://img.shields.io/github/last-commit/kr3s4l4/writeups-ctf)
+![GitHub stars](https://img.shields.io/github/stars/kr3s4l4/writeups-ctf?style=social)
+
+> 📚 Writeups organizados por dificultad de retos resueltos en diferentes competiciones CTF.
+
+---
+
+## 📊 Estadísticas Globales
+
+| Dificultad | Retos |
+|------------|-------|
+| 🔴 Hard | 6 |
+| 🟡 Medium | 16 |
+| 🟢 Easy | 28 |
+| **Total** | **50** |
+
+---
+
+## 🏁 CTFs Incluidos
+
+| CTF | Año | Retos |
+|-----|-----|-------|
+| picoCTF | 2025 | 50 |
+
+*Próximamente más CTFs...*
+
+---
 
 ## 📂 Estructura
 
-### Hard
+### 🔴 Hard
 
-| Challenge | Writeup |
-|-----------|---------|
-| Java_Script_Kiddie | [📝 Ver writeup](Hard/Java_Script_Kiddie/writeup.md) |
-| Java_Script_Kiddie_2 | [📝 Ver writeup](Hard/Java_Script_Kiddie_2/writeup.md) |
-| Live_Art | [📝 Ver writeup](Hard/Live_Art/writeup.md) |
-| elements | [📝 Ver writeup](Hard/elements/writeup.md) |
-| noted | [📝 Ver writeup](Hard/noted/writeup.md) |
-| notepad | [📝 Ver writeup](Hard/notepad/writeup.md) |
-
-### Easy
-
-| Challenge | Writeup |
-|-----------|---------|
-| 13 | [📝 Ver writeup](easy/13/writeup.md) |
-| Bookmarklet | [📝 Ver writeup](easy/Bookmarklet/writeup.md) |
-| Cookie_Monster_Secret_Recipe | [📝 Ver writeup](easy/Cookie_Monster_Secret_Recipe/writeup.md) |
-| Cookies | [📝 Ver writeup](easy/Cookies/writeup.md) |
-| EVEN_RSA_CAN_BE_BROKEN | [📝 Ver writeup](easy/EVEN_RSA_CAN_BE_BROKEN/writeup.md) |
-| Flag_Hunters | [📝 Ver writeup](easy/Flag_Hunters/writeup.md) |
-| GET_aHEAD | [📝 Ver writeup](easy/GET_aHEAD/writeup.md) |
-| Insp3ct0r | [📝 Ver writeup](easy/Insp3ct0r/writeup.md) |
-| Inspect_HTML | [📝 Ver writeup](easy/Inspect_HTML/writeup.md) |
-| IntroToBurp | [📝 Ver writeup](easy/IntroToBurp/writeup.md) |
-| Local_Authority | [📝 Ver writeup](easy/Local_Authority/writeup.md) |
-| Mod_26 | [📝 Ver writeup](easy/Mod_26/writeup.md) |
-| Old_Sessions | [📝 Ver writeup](easy/Old_Sessions/writeup.md) |
-| Quizploit | [📝 Ver writeup](easy/Quizploit/writeup.md) |
-| SSTI1 | [📝 Ver writeup](easy/SSTI1/writeup.md) |
-| Shared_Secrets | [📝 Ver writeup](easy/Shared_Secrets/writeup.md) |
-| StegoRSA | [📝 Ver writeup](easy/StegoRSA/writeup.md) |
-| The_Numbers | [📝 Ver writeup](easy/The_Numbers/writeup.md) |
-| Transformation | [📝 Ver writeup](easy/Transformation/writeup.md) |
-| Unminify | [📝 Ver writeup](easy/Unminify/writeup.md) |
-| WebDecode | [📝 Ver writeup](easy/WebDecode/writeup.md) |
-| hashcrack | [📝 Ver writeup](easy/hashcrack/writeup.md) |
-| head-dump | [📝 Ver writeup](easy/head-dump/writeup.md) |
-| interencdec | [📝 Ver writeup](easy/interencdec/writeup.md) |
-| logon | [📝 Ver writeup](easy/logon/writeup.md) |
-| vault-door-training | [📝 Ver writeup](easy/vault-door-training/writeup.md) |
-| where_are_the_robots | [📝 Ver writeup](easy/where_are_the_robots/writeup.md) |
-
-### Medium
-
-| Challenge | Writeup |
-|-----------|---------|
-| 3v@l | [📝 Ver writeup](medium/3v@l/writeup.md) |
-| Client-side-again | [📝 Ver writeup](medium/Client-side-again/writeup.md) |
-| Crack_the_Gate2 | [📝 Ver writeup](medium/Crack_the_Gate2/writeup.md) |
-| Credential_Stuffing | [📝 Ver writeup](medium/Credential_Stuffing/writeup.md) |
-| Fool_the_Lockout | [📝 Ver writeup](medium/Fool_the_Lockout/writeup.md) |
-| More_Cookies | [📝 Ver writeup](medium/More_Cookies/writeup.md) |
-| More_SQLi | [📝 Ver writeup](medium/More_SQLi/writeup.md) |
-| No_Sql_Injection | [📝 Ver writeup](medium/No_Sql_Injection/writeup.md) |
-| North-South | [📝 Ver writeup](medium/North-South/writeup.md) |
-| Secret_Box | [📝 Ver writeup](medium/Secret_Box/writeup.md) |
-| Secrets | [📝 Ver writeup](medium/Secrets/writeup.md) |
-| Sql_Map1 | [📝 Ver writeup](medium/Sql_Map1/writeup.md) |
-| Startup_Company | [📝 Ver writeup](medium/Startup_Company/writeup.md) |
-| byp4ss3d | [📝 Ver writeup](medium/byp4ss3d/writeup.md) |
-| findme | [📝 Ver writeup](medium/findme/writeup.md) |
-| picobrowser | [📝 Ver writeup](medium/picobrowser/writeup.md) |
+| Challenge | CTF | Writeup |
+|-----------|-----|---------|
+| Java_Script_Kiddie | picoCTF 2025 | [📝 Ver](./Hard/Java_Script_Kiddie/README.md) |
+| Java_Script_Kiddie_2 | picoCTF 2025 | [📝 Ver](./Hard/Java_Script_Kiddie_2/README.md) |
+| Live_Art | picoCTF 2025 | [📝 Ver](./Hard/Live_Art/README.md) |
+| elements | picoCTF 2025 | [📝 Ver](./Hard/elements/README.md) |
+| noted | picoCTF 2025 | [📝 Ver](./Hard/noted/README.md) |
+| notepad | picoCTF 2025 | [📝 Ver](./Hard/notepad/README.md) |
 
 ---
-*Última actualización: 2026-04-24 20:34:54*
+
+### 🟡 Medium
+
+| Challenge | CTF | Writeup |
+|-----------|-----|---------|
+| 3v@l | picoCTF 2025 | [📝 Ver](./Medium/3v@l/README.md) |
+| Client-side-again | picoCTF 2025 | [📝 Ver](./Medium/Client-side-again/README.md) |
+| Crack_the_Gate2 | picoCTF 2025 | [📝 Ver](./Medium/Crack_the_Gate2/README.md) |
+| Credential_Stuffing | picoCTF 2025 | [📝 Ver](./Medium/Credential_Stuffing/README.md) |
+| Fool_the_Lockout | picoCTF 2025 | [📝 Ver](./Medium/Fool_the_Lockout/README.md) |
+| More_Cookies | picoCTF 2025 | [📝 Ver](./Medium/More_Cookies/README.md) |
+| More_SQLi | picoCTF 2025 | [📝 Ver](./Medium/More_SQLi/README.md) |
+| No_Sql_Injection | picoCTF 2025 | [📝 Ver](./Medium/No_Sql_Injection/README.md) |
+| North-South | picoCTF 2025 | [📝 Ver](./Medium/North-South/README.md) |
+| Secret_Box | picoCTF 2025 | [📝 Ver](./Medium/Secret_Box/README.md) |
+| Secrets | picoCTF 2025 | [📝 Ver](./Medium/Secrets/README.md) |
+| Sql_Map1 | picoCTF 2025 | [📝 Ver](./Medium/Sql_Map1/README.md) |
+| Startup_Company | picoCTF 2025 | [📝 Ver](./Medium/Startup_Company/README.md) |
+| byp4ss3d | picoCTF 2025 | [📝 Ver](./Medium/byp4ss3d/README.md) |
+| findme | picoCTF 2025 | [📝 Ver](./Medium/findme/README.md) |
+| picobrowser | picoCTF 2025 | [📝 Ver](./Medium/picobrowser/README.md) |
+
+---
+
+### 🟢 Easy
+
+| Challenge | CTF | Writeup |
+|-----------|-----|---------|
+| 13 | picoCTF 2025 | [📝 Ver](./Easy/13/README.md) |
+| Bookmarklet | picoCTF 2025 | [📝 Ver](./Easy/Bookmarklet/README.md) |
+| Cookie_Monster_Secret_Recipe | picoCTF 2025 | [📝 Ver](./Easy/Cookie_Monster_Secret_Recipe/README.md) |
+| Cookies | picoCTF 2025 | [📝 Ver](./Easy/Cookies/README.md) |
+| EVEN_RSA_CAN_BE_BROKEN | picoCTF 2025 | [📝 Ver](./Easy/EVEN_RSA_CAN_BE_BROKEN/README.md) |
+| Flag_Hunters | picoCTF 2025 | [📝 Ver](./Easy/Flag_Hunters/README.md) |
+| GET_aHEAD | picoCTF 2025 | [📝 Ver](./Easy/GET_aHEAD/README.md) |
+| Insp3ct0r | picoCTF 2025 | [📝 Ver](./Easy/Insp3ct0r/README.md) |
+| Inspect_HTML | picoCTF 2025 | [📝 Ver](./Easy/Inspect_HTML/README.md) |
+| IntroToBurp | picoCTF 2025 | [📝 Ver](./Easy/IntroToBurp/README.md) |
+| Local_Authority | picoCTF 2025 | [📝 Ver](./Easy/Local_Authority/README.md) |
+| Mod_26 | picoCTF 2025 | [📝 Ver](./Easy/Mod_26/README.md) |
+| Old_Sessions | picoCTF 2025 | [📝 Ver](./Easy/Old_Sessions/README.md) |
+| Quizploit | picoCTF 2025 | [📝 Ver](./Easy/Quizploit/README.md) |
+| SSTI1 | picoCTF 2025 | [📝 Ver](./Easy/SSTI1/README.md) |
+| Shared_Secrets | picoCTF 2025 | [📝 Ver](./Easy/Shared_Secrets/README.md) |
+| StegoRSA | picoCTF 2025 | [📝 Ver](./Easy/StegoRSA/README.md) |
+| The_Numbers | picoCTF 2025 | [📝 Ver](./Easy/The_Numbers/README.md) |
+| Transformation | picoCTF 2025 | [📝 Ver](./Easy/Transformation/README.md) |
+| Unminify | picoCTF 2025 | [📝 Ver](./Easy/Unminify/README.md) |
+| WebDecode | picoCTF 2025 | [📝 Ver](./Easy/WebDecode/README.md) |
+| hashcrack | picoCTF 2025 | [📝 Ver](./Easy/hashcrack/README.md) |
+| head-dump | picoCTF 2025 | [📝 Ver](./Easy/head-dump/README.md) |
+| interencdec | picoCTF 2025 | [📝 Ver](./Easy/interencdec/README.md) |
+| logon | picoCTF 2025 | [📝 Ver](./Easy/logon/README.md) |
+| vault-door-training | picoCTF 2025 | [📝 Ver](./Easy/vault-door-training/README.md) |
+| where_are_the_robots | picoCTF 2025 | [📝 Ver](./Easy/where_are_the_robots/README.md) |
+
+---
+
+## 📈 Progreso
+
+| Dificultad | Completados | Total |
+|------------|-------------|-------|
+| 🔴 Hard | 6 | 6 |
+| 🟡 Medium | 16 | 16 |
+| 🟢 Easy | 28 | 28 |
+| **Total** | **50** | **50** |
+
+```mermaid
+pie title Progreso por Dificultad
+    "Hard (6)" : 6
+    "Medium (16)" : 16
+    "Easy (28)" : 28
