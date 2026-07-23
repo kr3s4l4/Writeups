@@ -1,0 +1,214 @@
+ExifTool Version Number         : 13.55
+File Name                       : ch1.png
+Directory                       : .
+File Size                       : 13 kB
+File Modification Date/Time     : 2026:07:15 20:50:40+02:00
+File Access Date/Time           : 2026:07:22 17:38:33+02:00
+File Inode Change Date/Time     : 2026:07:15 20:52:26+02:00
+File Permissions                : -rwxrwx---
+File Type                       : PNG
+File Type Extension             : png
+MIME Type                       : image/png
+Image Width                     : 96
+Image Height                    : 96
+Bit Depth                       : 8
+Color Type                      : RGB with Alpha
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+SRGB Rendering                  : Perceptual
+Gamma                           : 2.2
+Pixels Per Unit X               : 3779
+Pixels Per Unit Y               : 3779
+Pixel Units                     : meters
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Image Description               : S0rry_N0_Gu3ss1ng_Gh1zm0!
+Resolution Unit                 : inches
+Y Cb Cr Positioning             : Centered
+Exif Version                    : 0232
+Components Configuration        : Y, Cb, Cr, -
+Flashpix Version                : 0100
+Owner Name                      : ISISTM
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+Image Size                      : 96x96
+Megapixels                      : 0.009
+GPS Latitude                    : 43 deg 17' 56.27" N
+GPS Longitude                   : 5 deg 22' 49.38" E
+GPS Position                    : 43 deg 17' 56.27" N, 5 deg 22' 49.38" E
+IHDR
+sRGB
+gAMA
+	pHYs
+eXIfMM
+S0rry_N0_Gu3ss1ng_Gh1zm0!
+0232
+0100
+ISISTM
+IDATx^
+K2k%
+XEUmE
+8].\
+34E|
+xBCl
+u[VW
+:3H%c
+h4Zx
+&mIe
+zx|`rb
+**^z1Rpz
+6iE]
+r3{$
+;RMMM
+ M.	
+FFI$
+	)WK
+dBjtt4
+E1 ??_uV
+w[mB
+@mGqq1jjj
+|bbb
+8ZZ[0
+4GlW
+`5l(,*D<
+RKf>;999#
+ZZZf
+!%U$L
+d12:D
+d46.
+6n^]
+KB#v
+)*,,
+;{zzFr
+3O\"$
+Nchd
+=2_hN?$`K
+xCUU
+ysaem
+R%So*
+}21&
+b;)4
+j>cINx
+[>;::P^^
+m2^"
+Od,aD
+&QfoR
+&&U]6
+f":7D
+3>bu
+}jpO
+RsOO7~
+04:Pr
+enpL6
+0x8D
+Sh>y4w
+k=wX]
+ 7Xy]
+U9m1
+Sm]x
+A-:~x
+	~O#
+IrI,<
+L&Xd
+0>>>Lf
+FG_3
+Y-Vf
+w~1l
+.wt&H
+x}49
+%)g6-
+	JSAqQ,
+eeed
+buzp
+/,I-
+Pi&<F
+zQPX
+Gm&c
+K2#*
+0111z
+"g5nZ
+H/aNh1
+g<2s
+ZsJv
+q@4)L
+XmVT
+C&S.
+e5u8~
+Dmm=
+P1	4@
+afne
+fddd
+_bcq
+T&OV
+B)&P
+m<JF4
+M4['
+6^yu
+~l(o#
+nMPs
+?@R_M
+XJh$
+KuY	<
+2QfT
+LMh	
+nX|4U
+DCOW9
+]Xg{
+cmu!
+1NC~|d
+2%db
+|e{U
+X\VT
+&0QK]
+`9rt
+>bh)u
+P\To0
+omVJ
+Z&_}:
+seq<
+{bGp`
+'vu+m
+$G^A
+4`pp0
+8pbG
+c$~<
+6&_{'
+qulj
+4)b*3
+zh#%
+;%?r
+hjiA{{'
+_q="
+O}h#
+'\W-3
+"3qF_vY
+Sh?s"/}
+IMo>
+G::D
+X%M3$R#
+%d&O
+OX\"4
+EAV59d
+gD"/
+fC(r7
+:f/BpaBZ
+"o4%j
+:#:g="
+IdDa
+v:S;F
+!t61
+eLf]
+Hk):/f
+DAY:Ks
+K))1
+`j5a2
+1Y]o
+_o%t
+IEND
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             PNG image, 96 x 96, 8-bit/color RGBA, non-interlaced
+91            0x5B            TIFF image data, big-endian, offset of first image directory: 8
+367           0x16F           Zlib compressed data, compressed
+
