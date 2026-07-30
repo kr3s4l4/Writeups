@@ -7,10 +7,16 @@
 # Permitir README.md en la raíz
 !README.md
 
+# Permitir TODOS los README.md en Rootme (incluyendo subcarpetas)
+!Rootme/**/README.md
+
+# También permitir las carpetas que contienen README.md
+!Rootme/*/
+
 # Permitir el propio .gitignore
 !.gitignore
 
-# Opcional: excluir archivos de respaldo no deseados (aunque ya no se incluirán porque no son .md)
+# Opcional: excluir archivos de respaldo no deseados
 *.bak
 *.txt.bak
 *.jpg
@@ -19,6 +25,8 @@
 *.gz
 *.zip
 *.deb
+*.py
+*.sh
 __pycache__/
 venv/
 pixelenv/
