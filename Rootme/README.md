@@ -12,14 +12,33 @@
 
 | Categoría | Retos Completados |
 |-----------|-------------------|
-| 🌐 Web-Server | 12 |
-| 🖼️ Esteganografía | 2 |
+| 📜 App-Script | 7 |
 | 🖥️ App-System | 0 |
-| **Total** | **14** |
+| 🔓 Cracking | 0 |
+| 🖼️ Esteganografía | 2 |
+| 🔍 Forense | 0 |
+| 🌐 Network | 0 |
+| 🌍 Web-Client | 0 |
+| 🌐 Web-Server | 12 |
+| **Total** | **21** |
 
 ---
 
 ## 📂 Estructura
+
+### 📜 App-Script
+
+| Challenge | Writeup |
+|-----------|---------|
+| AppArmor-Jail_Introduction | [📝 Ver](./App-Script/AppArmor-Jail_Introduction/README.md) |
+| Bash-System1 | [📝 Ver](./App-Script/Bash-System1/README.md) |
+| Bash-System2 | [📝 Ver](./App-Script/Bash-System2/README.md) |
+| Docker-I_am_groot | [📝 Ver](./App-Script/Docker-I_am_groot/README.md) |
+| LaTeX-Command_execution | [📝 Ver](./App-Script/LaTeX-Command_execution/README.md) |
+| Powershell-Basic_jail | [📝 Ver](./App-Script/Powershell-Basic_jail/README.md) |
+| sudo-weak_configuration | [📝 Ver](./App-Script/sudo-weak_configuration/README.md) |
+
+---
 
 ### 🌐 Web-Server
 
@@ -57,14 +76,35 @@
 
 ---
 
-## 📈 Progreso
+### 🔍 Forense
 
-| Categoría | Completados |
-|-----------|-------------|
-| 🌐 Web-Server | 12 |
-| 🖼️ Esteganografía | 2 |
-| 🖥️ App-System | 0 |
-| **Total** | **14** |
+| Challenge | Writeup |
+|-----------|---------|
+| Próximamente... | ⏳ Pendiente |
+
+---
+
+### 🌍 Web-Client
+
+| Challenge | Writeup |
+|-----------|---------|
+| Próximamente... | ⏳ Pendiente |
+
+---
+
+### 🌐 Network
+
+| Challenge | Writeup |
+|-----------|---------|
+| Próximamente... | ⏳ Pendiente |
+
+---
+
+### 🔓 Cracking
+
+| Challenge | Writeup |
+|-----------|---------|
+| Próximamente... | ⏳ Pendiente |
 
 ---
 

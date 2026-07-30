@@ -12,11 +12,10 @@
 
 | CTF | Retos Completados | Writeups |
 |-----|-------------------|----------|
-| 🏁 picoCTF | 81 | [📝 Ver](./picoctf/README.md) |
-| 🏴 Root-me | 14 | [📝 Ver](./Rootme/README.md) |
-| 🔍 cyberzaintza | 0 | [📝 Ver](./cyberzaintza/README.md) |
+| 🏁 picoCTF | 80 | [📝 Ver](./picoctf/README.md) |
+| 🏴 Root-me | 21 | [📝 Ver](./Rootme/README.md) |
 | 📝 Otros | 2 | [📝 Ver](./otros/README.md) |
-| **Total** | **97** | - |
+| **Total** | **103** | - |
 
 ---
 
@@ -28,12 +27,15 @@ Writeups/
 │   ├── easy/         # Retos fáciles
 │   ├── medium/       # Retos medios
 │   └── hard/         # Retos difíciles
-├── Rootme/           # Writeups de Root-me
-│   ├── App-System/   # Retos de aplicación/sistema
-│   ├── Esteganografia/ # Retos de esteganografía
-│   └── Web-Server/   # Retos de servidor web
-├── cyberzaintza/     # Writeups de cyberzaintza
-│   └── Rescata_un_gatito/
+├── Rootme/               # Writeups de Root-me
+│   ├── App-Script/       # Retos de scripting
+│   ├── App-System/       # Retos de aplicación/sistema
+│   ├── Cracking/         # Retos de cracking
+│   ├── Esteganografia/   # Retos de esteganografía
+│   ├── Forense/          # Retos de forense
+│   ├── Network/          # Retos de red
+│   ├── Web-Client/       # Retos de cliente web
+│   └── Web-Server/       # Retos de servidor web
 └── otros/            # Otros writeups
 ```
 
