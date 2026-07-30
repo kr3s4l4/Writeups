@@ -1,32 +1,88 @@
-# Ignorar todo por defecto
+# ============================================
+# REGLA PRINCIPAL: Ignorar todo por defecto
+# ============================================
 *
 
-# Pero permitir archivos .md en cualquier nivel
+# ============================================
+# PERMITIR SOLO ARCHIVOS .md (README.md)
+# ============================================
+!*.md
 !**/*.md
+!**/**/*.md
+!**/**/**/*.md
+!**/**/**/**/*.md
 
-# Permitir README.md en la raíz
-!README.md
+# ============================================
+# PERMITIR CARPETAS QUE CONTIENEN README.md
+# ============================================
+!*/
+!*/*/
+!*/*/*/
+!*/*/*/*/
+!*/*/*/*/*/
+!*/*/*/*/*/*/
 
-# Permitir TODOS los README.md en Rootme (incluyendo subcarpetas)
-!Rootme/**/README.md
-
-# También permitir las carpetas que contienen README.md
-!Rootme/*/
-
-# Permitir el propio .gitignore
+# ============================================
+# PERMITIR ARCHIVOS ESPECÍFICOS
+# ============================================
 !.gitignore
+!README.md
+!picoctf/README.md
+!Rootme/README.md
+!otros/README.md
 
-# Opcional: excluir archivos de respaldo no deseados
+# ============================================
+# EXCLUIR ARCHIVOS NO DESEADOS
+# ============================================
 *.bak
 *.txt.bak
 *.jpg
 *.png
+*.jpeg
+*.gif
+*.bmp
+*.ico
 *.tar
 *.gz
 *.zip
+*.rar
+*.7z
 *.deb
+*.rpm
 *.py
+*.pyc
+*.pyo
+*.pyd
 *.sh
+*.bash
+*.zsh
+*.js
+*.css
+*.html
+*.htm
+*.sqlite3
+*.db
+*.pdf
+*.bin
+*.webp
+*.lzma
+*.xz
+*.zlib
+*.enc
+*.asc
+*.key
+*.pem
+*.crt
+*.cer
+*.p12
+*.pfx
+*.log
+*.tmp
+*.swp
+*.swo
+*.~*
+*.lock
+*.pid
 __pycache__/
 venv/
 pixelenv/
@@ -34,3 +90,11 @@ corkami_collisions/
 hashclash/
 site-packages/
 dist-info/
+*.egg-info/
+*.egg
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.iml
