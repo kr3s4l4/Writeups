@@ -1,8 +1,0 @@
-https://gchq.github.io/CyberChef/#recipe=Find_/_Replace(%7B'option':'Regex','string':'%5B%E2%80%80-%E2%80%8A%E2%80%AF%E2%81%9F%5D'%7D,'1',true,false,false,false)Find_/_Replace(%7B'option':'Regex','string':'%20'%7D,'0',true,false,false,false)Find_/_Replace(%7B'option':'Regex','string':'%5B%5E01%5D'%7D,'',true,false,true,false)&input=77yjaO%2B9j29zZeKAieKAhmHigIAgas6/772C4oCF4oCIedC%2BdeKAguKAqWzOv869772FLOKAhSBhbmTigIDigIR5b3Ug4oCA772X0ZbvvYxs4oCDIO%2B9jmXvvZbvvYXvvZIg4oCHaGF2ZSDigKh0zr/igIjigKjvvZfvvY9ya%2BKAg%2BKAh2HigIHigIVkYXkg4oCEaW7igIHigIl5zr91cuKAqeKAgWzRlmbvvYXvvI4&oenc=65001&ieol=LS&oeol=LS
-
-
-Input:
-Ｃhｏose  a  jοｂ  yоu  lονｅ,  and  you  ｗіｌl  ｎeｖｅｒ  have  tο  ｗｏrk  a  day  in  yοur  lіfｅ．
-
-Output:
-1110111101101100101111101111
