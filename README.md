@@ -13,7 +13,7 @@
 | CTF | Retos Completados | Writeups |
 |-----|-------------------|----------|
 | 🏁 picoCTF | 80 | [📝 Ver](./picoctf/README.md) |
-| 🏴 Root-me | 21 | [📝 Ver](./Rootme/README.md) |
+| 🏴 Root-me | 36 | [📝 Ver](./Rootme/README.md) |
 | 📝 Otros | 2 | [📝 Ver](./otros/README.md) |
 | **Total** | **103** | - |
 

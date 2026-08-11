@@ -12,15 +12,15 @@
 
 | Categoría | Retos Completados |
 |-----------|-------------------|
-| 📜 App-Script | 7 |
-| 🖥️ App-System | 0 |
-| 🔓 Cracking | 0 |
+| 📜 App-Script | 12 |
+| 🖥️ App-System | 0 ⏳ |
+| 🔓 Cracking | 0 ⏳ |
 | 🖼️ Esteganografía | 2 |
-| 🔍 Forense | 0 |
-| 🌐 Network | 0 |
-| 🌍 Web-Client | 0 |
+| 🔍 Forense | 0 ⏳ |
+| 🌐 Network | 0 ⏳ |
+| 🌍 Web-Client | 10 |
 | 🌐 Web-Server | 12 |
-| **Total** | **21** |
+| **Total** | **36** |
 
 ---
 
@@ -31,11 +31,16 @@
 | Challenge | Writeup |
 |-----------|---------|
 | AppArmor-Jail_Introduction | [📝 Ver](./App-Script/AppArmor-Jail_Introduction/README.md) |
+| Bash-race_condition | [📝 Ver](./App-Script/Bash-race_condition/README.md) |
 | Bash-System1 | [📝 Ver](./App-Script/Bash-System1/README.md) |
 | Bash-System2 | [📝 Ver](./App-Script/Bash-System2/README.md) |
+| Bash-unquoted_expression_injection | [📝 Ver](./App-Script/Bash-unquoted_expression_injection/README.md) |
 | Docker-I_am_groot | [📝 Ver](./App-Script/Docker-I_am_groot/README.md) |
 | LaTeX-Command_execution | [📝 Ver](./App-Script/LaTeX-Command_execution/README.md) |
+| Perl-Command_injection | [📝 Ver](./App-Script/Perl-Command_injection/README.md) |
 | Powershell-Basic_jail | [📝 Ver](./App-Script/Powershell-Basic_jail/README.md) |
+| Powershell-SecureString | [📝 Ver](./App-Script/Powershell-SecureString/README.md) |
+| R:_Code_Execution | [📝 Ver](./App-Script/R:_Code_Execution/README.md) |
 | sudo-weak_configuration | [📝 Ver](./App-Script/sudo-weak_configuration/README.md) |
 
 ---
@@ -59,6 +64,23 @@
 
 ---
 
+### 🌍 Web-Client
+
+| Challenge | Writeup |
+|-----------|---------|
+| CSP_Bypass-Inline_code | [📝 Ver](./Web-Client/CSP_Bypass-Inline_code/README.md) |
+| CSP_Bypass-Nonce2 | [📝 Ver](./Web-Client/CSP_Bypass-Nonce2/README.md) |
+| CSRF-0protection | [📝 Ver](./Web-Client/CSRF-0protection/README.md) |
+| HTML-disabled_buttons | [📝 Ver](./Web-Client/HTML-disabled_buttons/README.md) |
+| Javascript-Authentication | [📝 Ver](./Web-Client/Javascript-Authentication/README.md) |
+| Javascript-Authentication2 | [📝 Ver](./Web-Client/Javascript-Authentication2/README.md) |
+| Javascript-Native_code | [📝 Ver](./Web-Client/Javascript-Native_code/README.md) |
+| Javascript-Obfuscation1 | [📝 Ver](./Web-Client/Javascript-Obfuscation1/README.md) |
+| Javascript-Obfuscation2 | [📝 Ver](./Web-Client/Javascript-Obfuscation2/README.md) |
+| XSS-Stored1 | [📝 Ver](./Web-Client/XSS-Stored1/README.md) |
+
+---
+
 ### 🖼️ Esteganografía
 
 | Challenge | Writeup |
@@ -77,14 +99,6 @@
 ---
 
 ### 🔍 Forense
-
-| Challenge | Writeup |
-|-----------|---------|
-| Próximamente... | ⏳ Pendiente |
-
----
-
-### 🌍 Web-Client
 
 | Challenge | Writeup |
 |-----------|---------|
