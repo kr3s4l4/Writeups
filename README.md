@@ -14,8 +14,8 @@
 |-----|-------------------|----------|
 | 🏁 picoCTF | 80 | [📝 Ver](./picoctf/README.md) |
 | 🏴 Root-me | 36 | [📝 Ver](./Rootme/README.md) |
-| 📝 Otros | 2 | [📝 Ver](./otros/README.md) |
-| **Total** | **103** | - |
+| 📝 Otros | 1 | [📝 Ver](./otros/README.md) |
+| **Total** | **117** | - |
 
 ---
 
