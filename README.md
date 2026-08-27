@@ -13,31 +13,30 @@
 | CTF | Retos Completados | Writeups |
 |-----|-------------------|----------|
 | 🏁 picoCTF | 80 | [📝 Ver](./picoctf/README.md) |
-| 🏴 Root-me | 36 | [📝 Ver](./Rootme/README.md) |
+| 🏴 Root-me | 50 | [📝 Ver](./Rootme/README.md) |
 | 📝 Otros | 1 | [📝 Ver](./otros/README.md) |
-| **Total** | **117** | - |
+| **Total** | **131** | - |
 
 ---
 
 ## 📂 Estructura del Repositorio
 
-```
 Writeups/
-├── picoctf/          # Writeups de picoCTF
-│   ├── easy/         # Retos fáciles
-│   ├── medium/       # Retos medios
-│   └── hard/         # Retos difíciles
-├── Rootme/               # Writeups de Root-me
-│   ├── App-Script/       # Retos de scripting
-│   ├── App-System/       # Retos de aplicación/sistema
-│   ├── Cracking/         # Retos de cracking
-│   ├── Esteganografia/   # Retos de esteganografía
-│   ├── Forense/          # Retos de forense
-│   ├── Network/          # Retos de red
-│   ├── Web-Client/       # Retos de cliente web
-│   └── Web-Server/       # Retos de servidor web
-└── otros/            # Otros writeups
-```
+├── picoctf/ # Writeups de picoCTF
+│ ├── easy/ # Retos fáciles
+│ ├── medium/ # Retos medios
+│ └── hard/ # Retos difíciles
+├── Rootme/ # Writeups de Root-me
+│ ├── App-Script/ # Retos de scripting
+│ ├── App-System/ # Retos de aplicación/sistema
+│ ├── Cracking/ # Retos de cracking
+│ ├── Esteganografia/ # Retos de esteganografía
+│ ├── Forense/ # Retos de forense
+│ ├── Network/ # Retos de red
+│ ├── Web-Client/ # Retos de cliente web
+│ └── Web-Server/ # Retos de servidor web
+└── otros/ # Otros writeups
+
 
 ---
 
@@ -63,5 +62,3 @@ Si quieres añadir tus propios writeups:
 Este repositorio es solo para fines educativos.
 
 ---
-
-⭐ **Si te es útil, dale una estrella!**

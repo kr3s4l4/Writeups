@@ -14,13 +14,13 @@
 |-----------|-------------------|
 | 📜 App-Script | 12 |
 | 🖥️ App-System | 0 ⏳ |
-| 🔓 Cracking | 0 ⏳ |
+| 🔓 Cracking | 7 |
 | 🖼️ Esteganografía | 2 |
 | 🔍 Forense | 0 ⏳ |
-| 🌐 Network | 0 ⏳ |
+| 🌐 Network | 7 |
 | 🌍 Web-Client | 10 |
 | 🌐 Web-Server | 12 |
-| **Total** | **36** |
+| **Total** | **50** |
 
 ---
 
@@ -90,6 +90,34 @@
 
 ---
 
+### 🔓 Cracking
+
+| Challenge | Writeup |
+|-----------|---------|
+| APK-Introduction | [📝 Ver](./Cracking/APK-Introduction/README.md) |
+| ELF_C++-0_protection | [📝 Ver](./Cracking/ELF_C++-0_protection/README.md) |
+| ELF_x86-0_protection | [📝 Ver](./Cracking/ELF_x86-0_protection/README.md) |
+| ELF_x86-Basic | [📝 Ver](./Cracking/ELF_x86-Basic/README.md) |
+| Godot-0_protection | [📝 Ver](./Cracking/Godot-0_protection/README.md) |
+| PE_DotNet-0_protection | [📝 Ver](./Cracking/PE_DotNet-0_protection/README.md) |
+| PE_x86-0_protection | [📝 Ver](./Cracking/PE_x86-0_protection/README.md) |
+
+---
+
+### 🌐 Network
+
+| Challenge | Writeup |
+|-----------|---------|
+| Bluetooth-Unknown_file | [📝 Ver](./Network/Bluetooth-Unknown_file/README.md) |
+| ETHERNET-frame | [📝 Ver](./Network/ETHERNET-frame/README.md) |
+| FTP-authentication | [📝 Ver](./Network/FTP-authentication/README.md) |
+| Kerberos-Authentication | [📝 Ver](./Network/Kerberos-Authentication/README.md) |
+| NTLM-Authentication | [📝 Ver](./Network/NTLM-Authentication/README.md) |
+| TELNET-authentication | [📝 Ver](./Network/TELNET-authentication/README.md) |
+| Twitter_authentication | [📝 Ver](./Network/Twitter_authentication/README.md) |
+
+---
+
 ### 🖥️ App-System
 
 | Challenge | Writeup |
@@ -99,22 +127,6 @@
 ---
 
 ### 🔍 Forense
-
-| Challenge | Writeup |
-|-----------|---------|
-| Próximamente... | ⏳ Pendiente |
-
----
-
-### 🌐 Network
-
-| Challenge | Writeup |
-|-----------|---------|
-| Próximamente... | ⏳ Pendiente |
-
----
-
-### 🔓 Cracking
 
 | Challenge | Writeup |
 |-----------|---------|
