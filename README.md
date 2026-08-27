@@ -18,7 +18,7 @@
 | **Total** | **131** | - |
 
 ---
-
+```
 ## 📂 Estructura del Repositorio
 
 Writeups/
@@ -36,7 +36,7 @@ Writeups/
 │ ├── Web-Client/ # Retos de cliente web
 │ └── Web-Server/ # Retos de servidor web
 └── otros/ # Otros writeups
-
+```
 
 ---
 
